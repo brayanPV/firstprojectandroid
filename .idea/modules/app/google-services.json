@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611538862733",
+    "firebase_url": "https://movil2020ii-d8cd7.firebaseio.com",
+    "project_id": "movil2020ii-d8cd7",
+    "storage_bucket": "movil2020ii-d8cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611538862733:android:4e42e7f5267a1e6c0118c4",
+        "android_client_info": {
+          "package_name": "com.example.movil2020ii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611538862733-hqt4vbks6bhsirefdiqim88f4kc0a4h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movil2020ii",
+            "certificate_hash": "e23ce2f85d6ce9613402fe506ada17380169214b"
+          }
+        },
+        {
+          "client_id": "611538862733-7q9c806tvk8du6aqejhbmb9e9ev7i6p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Dtqy5ETP5iR10s6vBlXNLCgL4p1IrhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611538862733-7q9c806tvk8du6aqejhbmb9e9ev7i6p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

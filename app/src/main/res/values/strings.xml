@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movil2020II</string>
+    <string name="txtEmail">Ingrese el correo</string>
+    <string name="txtClave">Ingrese contraseña</string>
+    <string name="txtBoton">Ingresar</string>
+    <string name="txtOlvidoClave">¿Olvido la clave?</string>
+    <string name="txtRecuperarClave">Recupera la clave</string>
+    <string name="txtNoTieneUsuario">No tiene usuario?</string>
+    <string name="txtCrearUsuario">Registrate acá</string>
+    <string name="botonRegistrar">Registrar</string>
+</resources>
