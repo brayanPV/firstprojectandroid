@@ -11,7 +11,7 @@
         android:layout_width="225dp"
         android:layout_height="191dp"
         android:layout_gravity="center"
-        android:src="@drawable/bird_chick_nest" />
+        android:src="@drawable/comida" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
